@@ -1,9 +1,9 @@
-[![Github visitors](https://visitor-badge.glitch.me/badge?page_id=srmeneses.visitor-badge)](https://github.com/criapix)
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/criapix)](https://github.com/criapix)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/patrick-coelho-84153723/)](https://www.linkedin.com/in/patrick-coelho-84153723/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:criapix@gmail.com)](mailto:criapix@gmail.com)
 
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=criapix&hide=[%22issues%22,%22prs%22,%22contribs%22]&show_icons=true&theme=default)](https://github.com/criapix)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=criapix&layout=compact)](https://github.com/criapix/github-readme-stats)
 
 <!--
 **srmeneses/srmeneses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
